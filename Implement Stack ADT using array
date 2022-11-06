@@ -1,5 +1,4 @@
-AIM: Implement Stack ADT using array.
-CODE:
+
 
 #include<stdio.h>
 #include<conio.h>
@@ -119,9 +118,5 @@ void display()
 
 
 
-
-
-
-OUTPUT:
 
 
